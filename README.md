@@ -1,4 +1,6 @@
-# APPLainAlert
+# APPPlainAlert
+ The creeping message that enters the queue can be adjusted and customized from above or below
+ 
 Notification message is fully customizable
 Original Code from here https://github.com/josshad/EHPlainAlert
 
