@@ -4,8 +4,9 @@
 Notification message is fully customizable
 Original Code from here https://github.com/josshad/EHPlainAlert
 
-
-![APPPLainAlert|352x772, 60%](APPPlainAlert.png)
+<p align="center">
+<img style="text-align:center" src="APPPlainAlert.pngg" width="50%" height="50%">
+</p>
 
 
 ## Example Success Alert
